@@ -65,16 +65,17 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="420m" src="https://github-readme-stats.vercel.app/api?username=sanikadesai76&&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=sanikadesai76&show_icons=true&theme=radical&cache_seconds=7200" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanikadesai76&theme=radical" alt="Streak Stats"/>
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=sanikadesai76&theme=radical&cache_seconds=7200" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
 
 <br>
 <br>
+
 
 <p align="center">
   <b>Hey there! Thanks for stopping by my profile. <br> If you’ve found my work helpful or inspiring, why not treat me to a coffee or tea? ❤🍵</b>
